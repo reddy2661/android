@@ -1,0 +1,13 @@
+ <project path="tools/idea" name="platform/tools/idea" groups="notdefault,tools" />
+  <project path="tools/loganalysis" name="platform/tools/loganalysis" groups="notdefault,tradefed" />
+  <project path="tools/motodev" name="platform/tools/motodev" groups="notdefault,motodev" />
+  <project path="tools/studio/cloud" name="platform/tools/studio/cloud" groups="notdefault,tools" />
+  <project path="tools/studio/translation" name="platform/tools/studio/translation" groups="notdefault,tools" />
+  <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
+  <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" />
+
+  <project path="frameworks/smartisanos-base" name="SmartisanTech/android_frameworks_smartisanos-base" groups="pdk" remote="github" revision="refs/heads/smartisan-m"/>
+  <project path="packages/apps/OneStep" name="SmartisanTech/packages_apps_OneStep" groups="pdk-fs" remote="github" />
+  <project path="packages/apps/BigBang" name="SmartisanTech/packages_apps_BigBang" groups="pdk-fs" remote="github" />
+</manifest>
+
